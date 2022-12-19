@@ -11,6 +11,7 @@ An awesome list of layout generation papers.
 
 ## 2021
 - Variational Transformer Networks for Layout Generation (**CVPR** 2021) [[Paper]](https://arxiv.org/abs/2104.02416)
+- LayoutTransformer: Scene Layout Generation with Conceptual and Spatial Diversity [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_LayoutTransformer_Scene_Layout_Generation_With_Conceptual_and_Spatial_Diversity_CVPR_2021_paper.html) [[Code]](https://github.com/davidhalladay/LayoutTransformer)
 - Constrained Graphic Layout Generation via Latent Optimization (**MM** 2021) [[Paper]](https://arxiv.org/abs/2108.00871) [[Code]](https://github.com/ktrk115/const_layout)
 - LayoutTransformer: Layout Generation and Completion with Self-attention (**ICCV** 2021) [[Paper]](https://arxiv.org/abs/2006.14615) [[Code]](https://github.com/kampta/DeepLayout)
 
