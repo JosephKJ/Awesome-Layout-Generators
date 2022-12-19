@@ -16,5 +16,8 @@ An awesome list of layout generation papers.
 - Constrained Graphic Layout Generation via Latent Optimization (**MM** 2021) [[Paper]](https://arxiv.org/abs/2108.00871) [[Code]](https://github.com/ktrk115/const_layout)
 - LayoutTransformer: Layout Generation and Completion with Self-attention (**ICCV** 2021) [[Paper]](https://arxiv.org/abs/2006.14615) [[Code]](https://github.com/kampta/DeepLayout)
 
+## 2020
+- Attribute-conditioned Layout GAN for Automatic Graphic Design (**T-VCG** 2020) [[Paper]](https://arxiv.org/abs/2009.05284) 
+
 ## 2019
 - LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks (**ICLR** 2019, **T-PAMI** 2021) [[ICLR paper]](https://openreview.net/pdf?id=HJxB5sRcFQ) [[T-PAMI Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8948239)
