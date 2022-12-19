@@ -3,7 +3,7 @@ An awesome list of layout generation papers.
 
 
 ## Preprints
-- 
+- UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
 
 ## 2022
 - BLT: Bidirectional Layout Transformer for Controllable Layout Generation (**ECCV** 2022) [[Paper]](https://arxiv.org/abs/2112.05112) [[Code]](https://github.com/google-research/google-research/tree/master/layout-blt)
