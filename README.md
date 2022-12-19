@@ -11,3 +11,7 @@ An awesome list of layout generation papers.
 
 ## 2021
 - Variational Transformer Networks for Layout Generation (**CVPR** 2021) [[Paper]](https://arxiv.org/abs/2104.02416)
+
+
+## 2019
+- LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks (**ICLR** 2019, **T-PAMI**) [[ICLR paper]](https://openreview.net/pdf?id=HJxB5sRcFQ) [[T-PAMI Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8948239)
