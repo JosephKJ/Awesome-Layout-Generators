@@ -5,7 +5,7 @@
   <img width="460" src="https://user-images.githubusercontent.com/4231550/208363109-b1217d73-5054-43e7-895d-8f583399821f.png">
 </p>
 
-Layout Generation refers to the computer vision problem of generating layouts of a flyer, magazine, a UI interface or even a natural image.
+Layout Generation refers to the milti-modal problem of generating layouts of a flyer, magazine, a UI interface or even a natural image.
 
 This is a niche area, which is increasingly revieving attention from the community. This awesome listing is an attempt to pring together works in this space. This list is not complete and looking for your PRs to improve it and keeping it updated. 
 
