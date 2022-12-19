@@ -7,7 +7,7 @@
 
 Layout Generation refers to the multi-modal problem of generating layouts of a flyer, magazine, a UI interface or even a natural image.
 
-This is a niche area, which is increasingly recieving attention from the community. This awesome-listing is an attempt to bring together works in this space. This list is not complete and looking for your PRs to improve it. Thanks!
+This is a niche area, which is increasingly receiving attention from the community. This awesome-listing is an attempt to bring together works in this space. This list is not complete and looking for your PRs to improve it. Thanks!
 
 
 ## Preprints
