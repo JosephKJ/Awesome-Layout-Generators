@@ -17,6 +17,7 @@ An awesome list of layout generation papers.
 - LayoutTransformer: Layout Generation and Completion with Self-attention (**ICCV** 2021) [[Paper]](https://arxiv.org/abs/2006.14615) [[Code]](https://github.com/kampta/DeepLayout)
 
 ## 2020
+- Neural Design Network: Graphic Layout Generation with Constraints (**ECCV** 2020) [[Paper]](https://arxiv.org/abs/1912.09421)
 - Attribute-conditioned Layout GAN for Automatic Graphic Design (**T-VCG** 2020) [[Paper]](https://arxiv.org/abs/2009.05284) 
 
 ## 2019
