@@ -21,3 +21,4 @@ An awesome list of layout generation papers.
 
 ## 2019
 - LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks (**ICLR** 2019, **T-PAMI** 2021) [[ICLR paper]](https://openreview.net/pdf?id=HJxB5sRcFQ) [[T-PAMI Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8948239)
+- LayoutVAE: Stochastic Scene Layout Generation From a Label Set (**ICCV** 2019) [[Paper]](https://arxiv.org/abs/1907.10719)
