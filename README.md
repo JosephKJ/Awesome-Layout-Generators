@@ -33,3 +33,10 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## 2019
 - LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks (**ICLR** 2019, **T-PAMI** 2021) [[ICLR paper]](https://openreview.net/pdf?id=HJxB5sRcFQ) [[T-PAMI Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8948239)
 - LayoutVAE: Stochastic Scene Layout Generation From a Label Set (**ICCV** 2019) [[Paper]](https://arxiv.org/abs/1907.10719)
+
+## 2015
+- Designscape: Design with interactive layout suggestions (CHI 2015) [[Paper]](https://dl.acm.org/doi/abs/10.1145/2702123.2702149?casa_token=jO3SW90ttW0AAAAA%3Ay1qhSVwfEtUP4IxjRCv_0Xv9PVvyyT9mivkMJX4pcyFf8qRh5qF-9-hgOZSkxO3s230kjj8BI7TUgMk)
+
+## 2014
+- Learning Layouts for Single-Page Graphic Designs (TVCG 2014) [[Paper]](http://www.dgp.toronto.edu/~donovan/layout/designLayout.pdf)
+
