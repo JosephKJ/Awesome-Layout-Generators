@@ -11,6 +11,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 
 ## Preprints
+- LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer [[Paper]](https://arxiv.org/abs/2212.09877)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
 
 ## 2022
