@@ -13,6 +13,14 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## Preprints
 - LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer [[Paper]](https://arxiv.org/abs/2212.09877)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
+- Diffusion-based Document Layout Generation [[Paper]](https://arxiv.org/abs/2303.10787)
+
+## 2023
+- Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049) 
+- LayoutDM: Discrete Diffusion Model for Controllable Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.08137) [[Code]](https://github.com/CyberAgentAILab/layout-dm)
+- LayoutDiffusion: Controllable Diffusion Model for Layout-to-image Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.17189v1) [[https://github.com/ZGCTroy/LayoutDiffusion]]
+
+
 
 ## 2022
 - BLT: Bidirectional Layout Transformer for Controllable Layout Generation (**ECCV** 2022) [[Paper]](https://arxiv.org/abs/2112.05112) [[Code]](https://github.com/google-research/google-research/tree/master/layout-blt)
