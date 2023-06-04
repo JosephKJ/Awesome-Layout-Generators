@@ -18,6 +18,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## 2023
 - Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049) 
 - LayoutDM: Discrete Diffusion Model for Controllable Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.08137) [[Code]](https://github.com/CyberAgentAILab/layout-dm)
+- Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works (**IMCOM** 2023) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10035646)
 
 
 ## 2022
