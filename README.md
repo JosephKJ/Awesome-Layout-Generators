@@ -38,6 +38,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## 2020
 - Neural Design Network: Graphic Layout Generation with Constraints (**ECCV** 2020) [[Paper]](https://arxiv.org/abs/1912.09421)
 - Attribute-conditioned Layout GAN for Automatic Graphic Design (**T-VCG** 2020) [[Paper]](https://arxiv.org/abs/2009.05284) 
+- READ: Recursive Autoencoders for Document Layout Generation (**CVPRW** 2020) [[Paper]](https://arxiv.org/abs/1909.00302)
 
 ## 2019
 - LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks (**ICLR** 2019, **T-PAMI** 2021) [[ICLR paper]](https://openreview.net/pdf?id=HJxB5sRcFQ) [[T-PAMI Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8948239)
