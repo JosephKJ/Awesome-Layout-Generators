@@ -33,6 +33,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Constrained Graphic Layout Generation via Latent Optimization (**MM** 2021) [[Paper]](https://arxiv.org/abs/2108.00871) [[Code]](https://github.com/ktrk115/const_layout)
 - LayoutTransformer: Layout Generation and Completion with Self-attention (**ICCV** 2021) [[Paper]](https://arxiv.org/abs/2006.14615) [[Code]](https://github.com/kampta/DeepLayout)
 - CanvasVAE: Learning to Generate Vector Graphic Documents (**ICCV** 2021) [[Paper]](https://arxiv.org/abs/2108.01249) [[Code]](https://github.com/CyberAgentAILab/canvas-vae)
+- RUITE: Refining UI Layout Aesthetics Using Transformer Encoder (**IUI** 2021) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3397482.3450716) [[Code]](https://github.com/vinothpandian/RUITE)
 
 ## 2020
 - Neural Design Network: Graphic Layout Generation with Constraints (**ECCV** 2020) [[Paper]](https://arxiv.org/abs/1912.09421)
