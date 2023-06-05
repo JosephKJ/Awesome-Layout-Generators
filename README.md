@@ -13,6 +13,13 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## Preprints
 - LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer [[Paper]](https://arxiv.org/abs/2212.09877)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
+- Diffusion-based Document Layout Generation [[Paper]](https://arxiv.org/abs/2303.10787)
+
+## 2023
+- Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049) 
+- LayoutDM: Discrete Diffusion Model for Controllable Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.08137) [[Code]](https://github.com/CyberAgentAILab/layout-dm)
+- Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works (**IMCOM** 2023) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10035646)
+
 
 ## 2022
 - BLT: Bidirectional Layout Transformer for Controllable Layout Generation (**ECCV** 2022) [[Paper]](https://arxiv.org/abs/2112.05112) [[Code]](https://github.com/google-research/google-research/tree/master/layout-blt)
@@ -26,10 +33,12 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Constrained Graphic Layout Generation via Latent Optimization (**MM** 2021) [[Paper]](https://arxiv.org/abs/2108.00871) [[Code]](https://github.com/ktrk115/const_layout)
 - LayoutTransformer: Layout Generation and Completion with Self-attention (**ICCV** 2021) [[Paper]](https://arxiv.org/abs/2006.14615) [[Code]](https://github.com/kampta/DeepLayout)
 - CanvasVAE: Learning to Generate Vector Graphic Documents (**ICCV** 2021) [[Paper]](https://arxiv.org/abs/2108.01249) [[Code]](https://github.com/CyberAgentAILab/canvas-vae)
+- RUITE: Refining UI Layout Aesthetics Using Transformer Encoder (**IUI** 2021) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3397482.3450716) [[Code]](https://github.com/vinothpandian/RUITE)
 
 ## 2020
 - Neural Design Network: Graphic Layout Generation with Constraints (**ECCV** 2020) [[Paper]](https://arxiv.org/abs/1912.09421)
 - Attribute-conditioned Layout GAN for Automatic Graphic Design (**T-VCG** 2020) [[Paper]](https://arxiv.org/abs/2009.05284) 
+- READ: Recursive Autoencoders for Document Layout Generation (**CVPRW** 2020) [[Paper]](https://arxiv.org/abs/1909.00302)
 
 ## 2019
 - LayoutGAN: Synthesizing Graphic Layouts with Vector-Wireframe Adversarial Networks (**ICLR** 2019, **T-PAMI** 2021) [[ICLR paper]](https://openreview.net/pdf?id=HJxB5sRcFQ) [[T-PAMI Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8948239)
