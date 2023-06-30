@@ -14,10 +14,14 @@ This is a niche area, which is increasingly receiving attention from the communi
 - LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer [[Paper]](https://arxiv.org/abs/2212.09877)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
 - Diffusion-based Document Layout Generation [[Paper]](https://arxiv.org/abs/2303.10787)
+- LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [[Paper]](https://arxiv.org/abs/2305.15393) [[Code]](https://github.com/weixi-feng/LayoutGPT)
+
 
 ## 2023
 - Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049) 
 - LayoutDM: Discrete Diffusion Model for Controllable Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.08137) [[Code]](https://github.com/CyberAgentAILab/layout-dm)
+- PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout (**CVPR** 2023)  [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
+- Towards Flexible Multi-modal Document Models (**CVPR** 2023) [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Inoue_Towards_Flexible_Multi-Modal_Document_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/CyberAgentAILab/flex-dm)
 - Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works (**IMCOM** 2023) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10035646)
 
 
