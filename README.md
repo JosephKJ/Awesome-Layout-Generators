@@ -18,6 +18,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 
 ## 2023
+- DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer (**ICCV** 2023) [[Project page]](https://wix-incubator.github.io/DLT/) [[Paper]](https://arxiv.org/abs/2303.03755) [[Code]](https://github.com/wix-incubator/DLT)
 - Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049) 
 - LayoutDM: Discrete Diffusion Model for Controllable Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.08137) [[Code]](https://github.com/CyberAgentAILab/layout-dm)
 - PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout (**CVPR** 2023)  [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
