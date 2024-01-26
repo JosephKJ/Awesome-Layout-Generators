@@ -11,16 +11,24 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 
 ## Preprints
+- Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation [[Paper]](https://arxiv.org/abs/2311.13602)
+- Diffusion-based Document Layout Generation [[Paper]](https://arxiv.org/abs/2303.10787)
 - LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer [[Paper]](https://arxiv.org/abs/2212.09877)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
-- Diffusion-based Document Layout Generation [[Paper]](https://arxiv.org/abs/2303.10787)
-- LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [[Paper]](https://arxiv.org/abs/2305.15393) [[Code]](https://github.com/weixi-feng/LayoutGPT)
 
+## 2024
+- LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models (**ICLR** 2024) [[Paper]](https://openreview.net/forum?id=qCUWVT0Ayy) [[Code]](https://github.com/ProjectNUWA/LayoutNUWA)
+- Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints (**ICLR** 2024) [[Paper]](https://openreview.net/forum?id=kJ0qp9Xdsh)
 
 ## 2023
+- LayoutGPT: Compositional Visual Planning and Generation with Large Language Models (**NeurIPS** 2023) [[Paper]](https://arxiv.org/abs/2305.15393) [[Code]](https://github.com/weixi-feng/LayoutGPT)
+- LayoutPrompter: Awaken the Design Ability of Large Language Models (**NeurIPS** 2023) [[Paper]](https://arxiv.org/abs/2311.06495) [[Code]](https://github.com/microsoft/LayoutGeneration)
+- A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions (**ICCV** 2023) [[Paper]](https://arxiv.org/abs/2308.12700) [[Code]](https://github.com/microsoft/LayoutGeneration)
+- LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models (**ICCV** 2023) [[Paper]](https://arxiv.org/abs/2303.11589) [[Code]](https://github.com/microsoft/LayoutGeneration)
 - DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer (**ICCV** 2023) [[Project page]](https://wix-incubator.github.io/DLT/) [[Paper]](https://arxiv.org/abs/2303.03755) [[Code]](https://github.com/wix-incubator/DLT)
-- Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049) 
+- Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049)
 - LayoutDM: Discrete Diffusion Model for Controllable Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.08137) [[Code]](https://github.com/CyberAgentAILab/layout-dm)
+- LayoutDM: Transformer-based Diffusion Model for Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2305.02567)
 - PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout (**CVPR** 2023)  [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
 - Towards Flexible Multi-modal Document Models (**CVPR** 2023) [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Inoue_Towards_Flexible_Multi-Modal_Document_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/CyberAgentAILab/flex-dm)
 - Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works (**IMCOM** 2023) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10035646)
