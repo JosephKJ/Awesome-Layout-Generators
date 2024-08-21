@@ -15,6 +15,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models [[Paper]](https://arxiv.org/abs/2404.15271)
 - PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation [[Paper]](https://arxiv.org/abs/2404.00995)
 - LayoutFlow: Flow Matching for Layout Generation [[Paper]](https://arxiv.org/abs/2403.18187)
+- Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis [[Paper]](https://arxiv.org/abs/2311.17126)
 - COLE: A Hierarchical Generation Framework for Graphic Design [[Paper]](https://arxiv.org/abs/2311.16974)
 - Dolfin: Diffusion Layout Transformers without Autoencoder[[Paper]](https://arxiv.org/abs/2310.16305)
 - LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer [[Paper]](https://arxiv.org/abs/2212.09877)
