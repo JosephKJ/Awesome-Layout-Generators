@@ -16,6 +16,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM [[Paper]](https://arxiv.org/abs/2406.02884v1) [[Code]](https://github.com/posterllava/PosterLLaVA)
 - Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models [[Paper]](https://arxiv.org/abs/2404.15271)
 - Graphic Design with Large Multimodal Model [[Paper]](https://arxiv.org/abs/2404.14368)
+- Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis [[Paper]](https://arxiv.org/abs/2311.17126)
 - COLE: A Hierarchical Generation Framework for Graphic Design [[Paper]](https://arxiv.org/abs/2311.16974)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
 
@@ -47,6 +48,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout (**CVPR** 2023)  [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.pdf) [[Code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
 - Towards Flexible Multi-modal Document Models (**CVPR** 2023) [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Inoue_Towards_Flexible_Multi-Modal_Document_Models_CVPR_2023_paper.pdf) [[Code]](https://github.com/CyberAgentAILab/flex-dm)
 - Machine Learning Model to Evaluate the Appropriateness of Layout for Automatic Generation of Graphic Design Works (**IMCOM** 2023) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10035646)
+- DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs (**ICIG** 2023) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-46308-2_16)
 
 
 ## 2022
