@@ -11,16 +11,22 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 
 ## Preprints
-- Graphic Design with Large Multimodal Model [[Paper]](https://arxiv.org/abs/2404.14368)
+- LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation [[Paper]](https://arxiv.org/abs/2407.12356)
+- CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model [[Paper]](https://arxiv.org/abs/2407.15233)
+- PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM [[Paper]](https://arxiv.org/abs/2406.02884v1) [[Code]](https://github.com/posterllava/PosterLLaVA)
 - Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models [[Paper]](https://arxiv.org/abs/2404.15271)
-- PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation [[Paper]](https://arxiv.org/abs/2404.00995)
-- LayoutFlow: Flow Matching for Layout Generation [[Paper]](https://arxiv.org/abs/2403.18187)
+- Graphic Design with Large Multimodal Model [[Paper]](https://arxiv.org/abs/2404.14368)
 - COLE: A Hierarchical Generation Framework for Graphic Design [[Paper]](https://arxiv.org/abs/2311.16974)
-- Dolfin: Diffusion Layout Transformers without Autoencoder[[Paper]](https://arxiv.org/abs/2310.16305)
-- LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer [[Paper]](https://arxiv.org/abs/2212.09877)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
 
 ## 2024
+- LayoutFlow: Flow Matching for Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2403.18187) [[Code]](https://github.com/JulianGuerreiro/LayoutFlow)
+- PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2404.00995) [[Code]](https://github.com/jaepoong/PosterLlama)
+- Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model (**ECCV** 2024)
+- Dolfin: Diffusion Layout Transformers without Autoencoder (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2310.16305)
+- LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2212.09877) [[Code]](https://github.com/salesforce/LayoutDETR)
+- SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters (**BMVC** 2024) [[Paper]](https://arxiv.org/abs/2407.19787) [[Dataset]](https://huggingface.co/datasets/omron-sinicx/scipostlayout_v2) [[Code]](https://github.com/omron-sinicx/scipostlayout)
+- OpenCOLE: Towards Reproducible Automatic Graphic Design Generation (**CVPRW** 2024) [[Paper]](https://arxiv.org/abs/2406.08232) [[Code]](https://github.com/CyberAgentAILab/OpenCOLE)
 - Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation (**CVPR** 2024) [[Paper]](https://arxiv.org/abs/2311.13602) [[Code]](https://github.com/CyberAgentAILab/RALF)
 - Desigen: A Pipeline for Controllable Design Template Generation (**CVPR** 2024) [[Paper]](https://arxiv.org/abs/2403.09093) [[Code]](https://github.com/whaohan/desigen)
 - Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation (**CVPR** 2024) [[Paper]](https://aminshabani.github.io/visual_layout_composer/pdfs/visual_layout_composer.pdf)
@@ -59,7 +65,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 ## 2020
 - Neural Design Network: Graphic Layout Generation with Constraints (**ECCV** 2020) [[Paper]](https://arxiv.org/abs/1912.09421)
-- Attribute-conditioned Layout GAN for Automatic Graphic Design (**T-VCG** 2020) [[Paper]](https://arxiv.org/abs/2009.05284) 
+- Attribute-conditioned Layout GAN for Automatic Graphic Design (**T-VCG** 2020) [[Paper]](https://arxiv.org/abs/2009.05284)
 - READ: Recursive Autoencoders for Document Layout Generation (**CVPRW** 2020) [[Paper]](https://arxiv.org/abs/1909.00302)
 
 ## 2019
@@ -67,8 +73,8 @@ This is a niche area, which is increasingly receiving attention from the communi
 - LayoutVAE: Stochastic Scene Layout Generation From a Label Set (**ICCV** 2019) [[Paper]](https://arxiv.org/abs/1907.10719)
 
 ## 2015
-- Designscape: Design with interactive layout suggestions (CHI 2015) [[Paper]](https://dl.acm.org/doi/abs/10.1145/2702123.2702149?casa_token=jO3SW90ttW0AAAAA%3Ay1qhSVwfEtUP4IxjRCv_0Xv9PVvyyT9mivkMJX4pcyFf8qRh5qF-9-hgOZSkxO3s230kjj8BI7TUgMk)
+- Designscape: Design with interactive layout suggestions (**CHI** 2015) [[Paper]](https://dl.acm.org/doi/abs/10.1145/2702123.2702149?casa_token=jO3SW90ttW0AAAAA%3Ay1qhSVwfEtUP4IxjRCv_0Xv9PVvyyT9mivkMJX4pcyFf8qRh5qF-9-hgOZSkxO3s230kjj8BI7TUgMk)
 
 ## 2014
-- Learning Layouts for Single-Page Graphic Designs (TVCG 2014) [[Paper]](http://www.dgp.toronto.edu/~donovan/layout/designLayout.pdf)
+- Learning Layouts for Single-Page Graphic Designs (**TVCG** 2014) [[Paper]](http://www.dgp.toronto.edu/~donovan/layout/designLayout.pdf)
 
