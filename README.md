@@ -41,6 +41,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions (**ICCV** 2023) [[Paper]](https://arxiv.org/abs/2308.12700) [[Code]](https://github.com/microsoft/LayoutGeneration)
 - LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models (**ICCV** 2023) [[Paper]](https://arxiv.org/abs/2303.11589) [[Code]](https://github.com/microsoft/LayoutGeneration)
 - DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer (**ICCV** 2023) [[Project page]](https://wix-incubator.github.io/DLT/) [[Paper]](https://arxiv.org/abs/2303.03755) [[Code]](https://github.com/wix-incubator/DLT)
+- AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation (**MM** 2023) [[Paper]](https://arxiv.org/abs/2308.01095)
 - Diffusion-based Document Layout Generation (**ICDAR** 2023) [[Paper]](https://arxiv.org/abs/2303.10787)
 - Unifying Layout Generation with a Decoupled Diffusion Model (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.05049)
 - LayoutDM: Discrete Diffusion Model for Controllable Layout Generation (**CVPR** 2023) [[Paper]](https://arxiv.org/abs/2303.08137) [[Code]](https://github.com/CyberAgentAILab/layout-dm)
