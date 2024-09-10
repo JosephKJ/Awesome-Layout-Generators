@@ -11,7 +11,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 
 ## Preprints
-- LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation [[Paper]](https://arxiv.org/abs/2407.12356)
+- LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation [[Paper]](https://arxiv.org/abs/2407.12356) [[Code]](https://github.com/mayu-ot/ltsim)
 - CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model [[Paper]](https://arxiv.org/abs/2407.15233)
 - PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM [[Paper]](https://arxiv.org/abs/2406.02884v1) [[Code]](https://github.com/posterllava/PosterLLaVA)
 - Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models [[Paper]](https://arxiv.org/abs/2404.15271)
