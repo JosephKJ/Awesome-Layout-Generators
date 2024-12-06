@@ -23,7 +23,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## 2024
 - LayoutFlow: Flow Matching for Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2403.18187) [[Code]](https://github.com/JulianGuerreiro/LayoutFlow)
 - PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2404.00995) [[Code]](https://github.com/jaepoong/PosterLlama)
-- Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model (**ECCV** 2024)
+- Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2409.16689) [[Code]](https://github.com/line/Layout-Corrector)
 - Dolfin: Diffusion Layout Transformers without Autoencoder (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2310.16305)
 - LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2212.09877) [[Code]](https://github.com/salesforce/LayoutDETR)
 - SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters (**BMVC** 2024) [[Paper]](https://arxiv.org/abs/2407.19787) [[Dataset]](https://huggingface.co/datasets/omron-sinicx/scipostlayout_v2) [[Code]](https://github.com/omron-sinicx/scipostlayout)
