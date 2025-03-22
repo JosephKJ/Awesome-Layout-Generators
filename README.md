@@ -11,18 +11,27 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 
 ## Preprints
-- Multimodal Markup Document Models for Graphic Design Completion [[Paper]](https://arxiv.org/abs/2409.19051)
-- TextLap: Customizing Language Models for Text-to-Layout Planning [[Paper]](https://arxiv.org/abs/2410.12844)
+- DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation [[Paper]](https://arxiv.org/abs/2412.00381)
+- Crafting Layered Designs from Pixels [[Papar]](https://openreview.net/forum?id=D8fk2fY0lh)
+- Multimodal Markup Document Models for Graphic Design Completion [[Paper]](https://arxiv.org/abs/2409.19051) [[Project]](https://cyberagentailab.github.io/MarkupDM/)
 - LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation [[Paper]](https://arxiv.org/abs/2407.12356) [[Code]](https://github.com/mayu-ot/ltsim)
 - CGB-DM: Content and Graphic Balance Layout Generation with Transformer-based Diffusion Model [[Paper]](https://arxiv.org/abs/2407.15233)
 - PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM [[Paper]](https://arxiv.org/abs/2406.02884v1) [[Code]](https://github.com/posterllava/PosterLLaVA)
-- Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models [[Paper]](https://arxiv.org/abs/2404.15271)
 - Graphic Design with Large Multimodal Model [[Paper]](https://arxiv.org/abs/2404.14368)
 - Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis [[Paper]](https://arxiv.org/abs/2311.17126)
 - COLE: A Hierarchical Generation Framework for Graphic Design [[Paper]](https://arxiv.org/abs/2311.16974)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
 
+## 2025
+- AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models (**CVPR** 2025) [[Paper]](https://arxiv.org/abs/2503.00591)
+- DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models (**CVPR** 2025) [[Paper]](https://arxiv.org/abs/2503.01645)
+- From Elements to Design: A Layered Approach for Automatic Graphic Design Composition (**CVPR** 2025) [[Paper]](https://arxiv.org/abs/2412.19712)
+- CLASS: Conditional Latent Architecture for Search and Synthesis of Design Layouts (**WACV** 2025) [[Paper]](https://openaccess.thecvf.com/content/WACV2025/html/Manandhar_CLASS_Conditional_Latent_Architecture_for_Search_and_Synthesis_of_Design_WACV_2025_paper.html)
+- Design-o-Meter: Towards Evaluating and Refining Graphic Designs (**WACV** 2025) [[Paper]](https://arxiv.org/abs/2411.14959)
+
 ## 2024
+- TextLap: Customizing Language Models for Text-to-Layout Planning (**EMNLP findings** 2024) [[Paper]](https://arxiv.org/abs/2410.12844) [[Code]](https://github.com/puar-playground/TextLap)
+- Design Element Aware Poster Layout Generation (**CIKM** 2024) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3627673.3679557)
 - LayoutFlow: Flow Matching for Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2403.18187) [[Code]](https://github.com/JulianGuerreiro/LayoutFlow) [[Project]](https://julianguerreiro.github.io/layoutflow/)
 - PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2404.00995) [[Code]](https://github.com/jaepoong/PosterLlama)
 - Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model (**ECCV** 2024) [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04969.pdf)
@@ -30,6 +39,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 - LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer (**ECCV** 2024) [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03022.pdf) [[Code]](https://github.com/salesforce/LayoutDETR) [[Project]](https://ningyu1991.github.io/projects/LayoutDETR.html)
 - Prompt2Poster: Automatically Artistic Chinese Poster Creation from Prompt Only (**ACMMM** 2024) [[Paper]](https://openreview.net/forum?id=BQbfGk3JPY)
 - SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters (**BMVC** 2024) [[Paper]](https://arxiv.org/abs/2407.19787) [[Dataset]](https://huggingface.co/datasets/omron-sinicx/scipostlayout_v2) [[Code]](https://github.com/omron-sinicx/scipostlayout)
+- Automatic Layout Planning for Visually-Rich Documents with Instruction-Following Models (**ACLW** 2024) [[Paper]](https://aclanthology.org/2024.alvr-1.14/)
 - OpenCOLE: Towards Reproducible Automatic Graphic Design Generation (**CVPRW** 2024) [[Paper]](https://arxiv.org/abs/2406.08232) [[Code]](https://github.com/CyberAgentAILab/OpenCOLE)
 - Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation (**CVPR** 2024) [[Paper]](https://arxiv.org/abs/2311.13602) [[Code]](https://github.com/CyberAgentAILab/RALF) [[Project]](https://udonda.github.io/RALF/)
 - Desigen: A Pipeline for Controllable Design Template Generation (**CVPR** 2024) [[Paper]](https://arxiv.org/abs/2403.09093) [[Code]](https://github.com/whaohan/desigen)
@@ -41,6 +51,8 @@ This is a niche area, which is increasingly receiving attention from the communi
 ## 2023
 - LayoutGPT: Compositional Visual Planning and Generation with Large Language Models (**NeurIPS** 2023) [[Paper]](https://arxiv.org/abs/2305.15393) [[Code]](https://github.com/weixi-feng/LayoutGPT) [[Project]](https://layoutgpt.github.io/)
 - LayoutPrompter: Awaken the Design Ability of Large Language Models (**NeurIPS** 2023) [[Paper]](https://arxiv.org/abs/2311.06495) [[Code]](https://github.com/microsoft/LayoutGeneration)
+- Two-stage Content-Aware Layout Generation for Poster Designs (**ACMMM** 2023) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3581783.3612275)
+- Relation-Aware Diffusion Model for Controllable Poster Layout Generation (**CIKM** 2023) [[Paper]](https://arxiv.org/abs/2306.09086) [[Code]](https://github.com/liuan0803/RADM)
 - A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions (**ICCV** 2023) [[Paper]](https://arxiv.org/abs/2308.12700) [[Code]](https://github.com/microsoft/LayoutGeneration)
 - LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models (**ICCV** 2023) [[Paper]](https://arxiv.org/abs/2303.11589) [[Code]](https://github.com/microsoft/LayoutGeneration)
 - DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer (**ICCV** 2023) [[Paper]](https://arxiv.org/abs/2303.03755) [[Code]](https://github.com/wix-incubator/DLT) [[Project]](https://wix-incubator.github.io/DLT/)
