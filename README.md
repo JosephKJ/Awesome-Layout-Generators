@@ -20,6 +20,9 @@ This is a niche area, which is increasingly receiving attention from the communi
 - COLE: A Hierarchical Generation Framework for Graphic Design [[Paper]](https://arxiv.org/abs/2311.16974)
 - UniLayout: Taming Unified Sequence-to-Sequence Transformers for Graphic Layout Generation [[Paper]](https://arxiv.org/abs/2208.08037)
 
+## 2025
+- AesthetiQ: Enhancing Graphic Layout Design via Aesthetic-Aware Preference Alignment of Multi-modal Large Language Models (**CVPR** 2025) [[Paper]](http://openaccess.thecvf.com/content/CVPR2025/html/Patnaik_AesthetiQ_Enhancing_Graphic_Layout_Design_via_Aesthetic-Aware_Preference_Alignment_of_CVPR_2025_paper.html) [[Project]](https://mdsrlab.github.io/2025/03/01/AesthetiQ-CVPR.html)
+
 ## 2024
 - LayoutFlow: Flow Matching for Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2403.18187) [[Code]](https://github.com/JulianGuerreiro/LayoutFlow)
 - PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation (**ECCV** 2024) [[Paper]](https://arxiv.org/abs/2404.00995) [[Code]](https://github.com/jaepoong/PosterLlama)
